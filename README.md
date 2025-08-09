@@ -4,11 +4,14 @@
   - Linguagens de Estilização e Marcação: 
     - CSS3 e HTML5
   - Linguagens de Programação:
-    - Python | JavaScript | PHP | Java
-  - Frameworks:
-    - Bootstrap
+    - Python | JavaScript | PHP | Java | 
+  - Tecnolgias:
+    - Node
+    - Node Red
+    - React
   - Bannco de Dados:
-    - MySQL  
+    - MySQL
+    - MongoDB
 <!---
 yIuriy/yIuriy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
