@@ -1,10 +1,9 @@
-- Olá, sou o Iuri
-- Caminhando para me tornar um Dev Back:
+- Olá, sou o Iuri, estudo programação a dois anos e atualmente curso **Engenharia de Software** 
 - O que eu sei: 
   - Linguagens de Estilização e Marcação: 
     - CSS3 e HTML5
   - Linguagens de Programação:
-    - Python | JavaScript | PHP | Java | 
+    - Python | JavaScript  Java 
   - Tecnolgias:
     - Node
     - Node Red
